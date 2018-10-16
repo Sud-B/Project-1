@@ -8,7 +8,8 @@ Project 1
 
 Outside resources
 
-None besidres our issues forum.
+None besidres our issues forum. For the quotes I used this website: https://www.brainyquote.com/authors/dante_alighieri
+
 
 
 
