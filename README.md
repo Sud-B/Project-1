@@ -3,8 +3,8 @@
 Project 1
 
     By: Sudhir Bhargava
-    Production URL: http://p1.hostquick.me/
-    Also on http://blink.dreamhosters.com/p1dwa/
+    Production URL: 
+    http://p1.hostquick.me/
 
 Outside resources
 
