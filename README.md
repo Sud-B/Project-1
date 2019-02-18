@@ -1,5 +1,4 @@
-# hello-world
-Practice for fall 2018 semester Dynamic web applications
+# Project 1 for fall 2018 semester Dynamic web applications
 
 Project 1
 
